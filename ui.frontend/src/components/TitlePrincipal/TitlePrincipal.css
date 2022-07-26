@@ -1,0 +1,11 @@
+.principal {
+font-family: 'Space Mono', monospace !important;
+font-style: normal;
+font-weight: 700;
+font-size: 4rem;
+line-height: 5.938rem;
+letter-spacing: -0.035em;
+color: #333333;
+text-align:left;
+max-width: 20ch;
+}

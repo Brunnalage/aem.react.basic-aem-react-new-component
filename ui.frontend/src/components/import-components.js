@@ -22,6 +22,7 @@ import "./XxXxx";
 import "./ParagraphPrincipal/ParagraphPrincipal";
 import "./TitlePrincipal/TitlePrincipal";
 import "./ButtonPrincipal/ButtonPrincipal";
+import "./HeaderPrincipal/HeaderPrincipal";
 import MeuComponente from "./MeuComponente";
 
 import { MapTo } from "@adobe/aem-react-editable-components";

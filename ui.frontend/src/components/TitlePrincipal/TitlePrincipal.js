@@ -1,11 +1,13 @@
 import React from 'react';
 import {MapTo} from '@adobe/aem-react-editable-components';
-import { TitlePrincipalStyled } from './TitlePrincipal.styled';
+import { TitlePrincipalStyled, TitleContainer } from './TitlePrincipal.styled';
 import './TitlePrincipal.css'
 
 const TitlePrincipal = (props) => {
     return(
-        <h2 className='principal'>{props.text}</h2>
+        <TitleContainer>
+        <TitlePrincipalStyled>{props.text}</TitlePrincipalStyled>
+        </TitleContainer>
     )
 }
 

@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const TitleContainer = styled.div`
 max-width: 26rem;
+margin-bottom: 1.594rem;
 `;
 
 export const TitlePrincipalStyled = styled.h2`
@@ -13,4 +14,5 @@ line-height: 4.219rem;
 letter-spacing: -0.035em;
 color: #333333;
 text-align:left;
+margin: 0;
 `;

@@ -12,5 +12,5 @@ export const PPrincipalStyled = styled.p`
     line-height: 1.6rem;
     letter-spacing: -0.035em;
     color: #4F4F4F;
-    
+    margin: 0;
 `;

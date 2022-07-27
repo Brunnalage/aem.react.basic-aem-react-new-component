@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const FooterPrincipalContainer = styled.div`
-margin-top: 19.25rem;
+margin-top: 17.813rem;
 align-items: center;
 display: flex;
 justify-content: center;
-gap: 5px;
+gap: 0.313rem;
 `;
 
 export const TextFooter = styled.span`

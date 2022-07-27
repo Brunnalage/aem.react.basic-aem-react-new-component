@@ -1,15 +1,15 @@
 import styled from "styled-components";
 
 export const BtnPrincipalStyled = styled.button`
-min-width: 9.594rem;
-height: 4.25rem;
+min-width: 10.125rem;
+height: 3.4rem;
 background: #333333;
 font-family: 'Space Mono', monospace !important;
 font-style: normal;
 font-weight: 700;
 color:#FFFFFF;
-font-size: 0.875rem;
-line-height: 1.313rem;
+font-size: 0.688rem;
+line-height: 0.984rem;
 letter-spacing: -0.035em;
 text-transform: uppercase;
 text-align: center;

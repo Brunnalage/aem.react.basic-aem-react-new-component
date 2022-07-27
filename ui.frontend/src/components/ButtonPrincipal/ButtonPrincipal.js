@@ -4,7 +4,7 @@ import {BtnPrincipalStyled} from './ButtonPrincipal.styled.js';
 
 const ButtonPrincipal = (props) => {
     return (
-        <BtnPrincipalStyled>{props.text}</BtnPrincipalStyled>
+        <BtnPrincipalStyled type="button">{props.text}</BtnPrincipalStyled>
     )
 };
 

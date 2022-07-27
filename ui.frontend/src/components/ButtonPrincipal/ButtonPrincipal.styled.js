@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const BtnPrincipalStyled = styled.button`
 min-width: 9.594rem;
-height: 3.019rem;
+height: 4.25rem;
 background: #333333;
 font-family: 'Space Mono', monospace !important;
 font-style: normal;

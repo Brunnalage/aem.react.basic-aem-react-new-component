@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const BtnPrincipalStyled = styled.button`
+min-width: 9.594rem;
 height: 3.019rem;
 background: #333333;
 font-family: 'Space Mono', monospace !important;
@@ -14,4 +15,8 @@ text-transform: uppercase;
 text-align: center;
 border: none;
 padding: 1.063rem 1.906rem;
+cursor: pointer;
+&:hover{
+    background: rgba(0, 0, 0, 0.3);
+}
 `;

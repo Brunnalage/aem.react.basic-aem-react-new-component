@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const HeaderContainer = styled.div`
-margin-bottom: 8.888rem;
+margin-bottom: 12.5rem;
 `;
 
 export const HeaderPrincipalStyled = styled.h3`

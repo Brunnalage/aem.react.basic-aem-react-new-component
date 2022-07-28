@@ -10,7 +10,7 @@ gap: 0.313rem;
 margin-top:6.5rem;
 }
 @media (max-width: 400px){
-margin-top:4.5rem;
+margin-top:4rem;
 }
 `;
 

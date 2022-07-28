@@ -12,6 +12,7 @@ font-size: 1.5rem;
 line-height: 1.563rem;
 letter-spacing: -0.08em;
 text-transform: uppercase;
+margin: 0;
 
 color: #333333;
 `;

@@ -6,6 +6,9 @@ align-items: center;
 display: flex;
 justify-content: center;
 gap: 0.313rem;
+@media (max-width: 768px){
+margin-top:6.5rem;
+}
 `;
 
 export const TextFooter = styled.span`

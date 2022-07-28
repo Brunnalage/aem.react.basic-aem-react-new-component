@@ -6,6 +6,9 @@ margin-bottom: 12.5rem;
 @media (max-width: 768px) {
     margin-bottom: 4rem;
 }
+@media (max-width: 400px) {
+    margin-bottom: 3rem;
+}
 `;
 
 export const HeaderPrincipalStyled = styled.h3`

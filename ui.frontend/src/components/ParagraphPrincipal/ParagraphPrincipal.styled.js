@@ -9,7 +9,7 @@ max-width:80%;
 }
 @media (max-width: 400px) {
 max-width:100%;
-margin-bottom: 3rem;
+margin-bottom: 2.5rem;
 }
 `;
 

@@ -19,7 +19,11 @@ import "./Page/Page";
 import "./Container/Container";
 import "./ExperienceFragment/ExperienceFragment";
 import "./XxXxx";
+import "./ParagraphPrincipal/ParagraphPrincipal";
 import "./TitlePrincipal/TitlePrincipal";
+import "./ButtonPrincipal/ButtonPrincipal";
+import "./HeaderPrincipal/HeaderPrincipal";
+import "./FooterPrincipal/FooterPrincipal";
 import MeuComponente from "./MeuComponente";
 
 import { MapTo } from "@adobe/aem-react-editable-components";

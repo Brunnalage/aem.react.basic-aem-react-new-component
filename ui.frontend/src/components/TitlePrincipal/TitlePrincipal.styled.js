@@ -13,4 +13,9 @@ line-height: 4.219rem;
 letter-spacing: -0.035em;
 color: #333333;
 text-align:left;
+
+@media (max-width: 400px){
+    font-size: 2.25rem;
+    line-height: 3.5rem;
+}
 `;

@@ -9,6 +9,9 @@ gap: 0.313rem;
 @media (max-width: 768px){
 margin-top:6.5rem;
 }
+@media (max-width: 400px){
+margin-top:4.5rem;
+}
 `;
 
 export const TextFooter = styled.span`
